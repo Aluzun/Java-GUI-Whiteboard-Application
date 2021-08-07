@@ -20,3 +20,13 @@
   - Create a jar file
   - You need to take attendance and store it in a file.
   These are the minimum criteria, you can use more than these. Your application should work without any errors, so don’t forget to run and check your application.
+  
+## Bonus:
+  - During the lesson or end of the lesson, the teacher can click the “attendance” button to see the attendance list. (minimum criteria for 3 people groups)
+  - Using multiple Threads
+  - More than one student can connect to the system.
+  - Creating a smooth online application.
+  - The classroom has a chatbox. (minimum criteria for 3 people groups)
+
+## Limitation:
+  You cannot use third party libraries in your project.
