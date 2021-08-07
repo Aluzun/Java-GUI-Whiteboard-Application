@@ -6,17 +6,17 @@
 ## Minimum Criteria:
   You are expected to design the game by using java. Below are the minimal criteria:
   
-  • Proper object-oriented (OO) hierarchy (Use concepts of interfaces, abstract classes while designing OO hierarchy)
-  • You need to create one classroom and only one teacher and one student can join this classroom simultaneously.
-  • You need to use the mouse or key listeners
-  • Minimal GUI elements (Minimal a button, a checkbox, and a text field)
-  • You need to create an online whiteboard application. Two users (one teacher, one student) can join the classroom using same computers but different application.
-  • The teacher must be select shapes from the menu bar.
-  • When the teacher draws some shapes, you need to show a counter for how many shapes are drawn.
-  • Students can click the “hand” button to rise a hand and the teacher can see this information.
-  • You need to time information using GUI elements.
-  • When time is over, you need to create basic animation to show “time is over” message for the lesson.
-  • Graphics (Java 2D API usage while designing your graphical elements)
-  • Create a jar file
-  • You need to take attendance and store it in a file.
+  - Proper object-oriented (OO) hierarchy (Use concepts of interfaces, abstract classes while designing OO hierarchy)
+  - You need to create one classroom and only one teacher and one student can join this classroom simultaneously.
+  - You need to use the mouse or key listeners
+  - Minimal GUI elements (Minimal a button, a checkbox, and a text field)
+  - You need to create an online whiteboard application. Two users (one teacher, one student) can join the classroom using same computers but different application.
+  - The teacher must be select shapes from the menu bar.
+  - When the teacher draws some shapes, you need to show a counter for how many shapes are drawn.
+  - Students can click the “hand” button to rise a hand and the teacher can see this information.
+  - You need to time information using GUI elements.
+  - When time is over, you need to create basic animation to show “time is over” message for the lesson.
+  - Graphics (Java 2D API usage while designing your graphical elements)
+  - Create a jar file
+  - You need to take attendance and store it in a file.
   These are the minimum criteria, you can use more than these. Your application should work without any errors, so don’t forget to run and check your application.
