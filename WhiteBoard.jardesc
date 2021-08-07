@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="Java-Projesi2/WhiteBoard.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Java-Projesi2/WhiteBoard.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Java-Projesi2/src&lt;{Teacher_main.java[Teacher_main" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Java-Projesi2/.project"/>
+        <file path="/Java-Projesi2/AttandanceList.txt"/>
+        <file path="/Java-Projesi2/.classpath"/>
+        <javaElement handleIdentifier="=Java-Projesi2/src"/>
+    </selectedElements>
+</jardesc>
